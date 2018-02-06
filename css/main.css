@@ -15,14 +15,7 @@
 	opacity: 1;
 }
 
-body input:focus:required:invalid,
-body textarea:focus:required:invalid {
-	
-}
-body input:required:valid,
-body textarea:required:valid {
-	
-}
+
 body {
 	font-family: "RobotoRegular", sans-serif;
 	font-size: 16px;
@@ -43,7 +36,7 @@ body {
 }
 
 header{
-	background-image: url(../img/bg-image.jpg);
+	background-image: url(../img/bg-image_0.jpg);
 	min-height: 644px;
 	background-repeat: repeat-x;
 	background-position: top center;
@@ -86,7 +79,7 @@ header a{
 
 .top_addr{
 	padding-left: 50px;
-	background-image: url(../img/top_map.jpg);
+	background-image: ;
 	background-repeat: no-repeat;
 	background-position: left top;
 	line-height: 26px;
